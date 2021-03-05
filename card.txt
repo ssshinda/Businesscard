@@ -242,7 +242,7 @@
             "action": {
               "type": "uri",
               "label": "我要分享",
-              "uri": "https://linecorp.com"
+              "uri": "https://liff.line.me/1654437282-A1Bj7p4a/share-csv.html?template=aHR0cHM6Ly9naXN0LmdpdGh1YnVzZXJjb250ZW50LmNvbS9zc3NoaW5kYS82NmI5ZjBjODBjMGM1YTFjMDhjYTU1ZjMxMGU2ZWNlZC9yYXcvNzA1MGRlZjhjZmVkNjQ1MTVlNGI3YWIxOGZiYjQzZGJiMzMzMGU2Ny9jYXJkLnR4dA&csv=aHR0cHM6Ly9naXN0LmdpdGh1YnVzZXJjb250ZW50LmNvbS9zc3NoaW5kYS9lMTE3ZWNkNmZhZWVkZjViNzUyZTI3M2E4NWQ1MGQwMi9yYXcvJTI1RTclMjU4NCUyNUExJTI1RTYlMjVBOCUyNTk5JTI1RTklMjVBMSUyNThDJTI1RTclMjU5QSUyNTg0JTI1RTglMjVBOSUyNUE2JTI1RTclMjVBRSUyNTk3JTI1RTglMjVBMSUyNUE4JTI1MjAtJTI1MjAlMjVFNSUyNUI3JTI1QTUlMjVFNCUyNUJEJTI1OUMlMjVFOCUyNUExJTI1QTgxLmNzdg&key=aWQ&value=MQ"
             },
             "flex": 2,
             "color": "#09BC19FF",
@@ -254,7 +254,7 @@
             "action": {
               "type": "uri",
               "label": "我也想做",
-              "uri": "https://linecorp.com"
+              "uri": "https://lin.ee/0did2KA"
             },
             "color": "#09BC19FF",
             "style": "primary"
