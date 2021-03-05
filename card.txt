@@ -1,0 +1,269 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://hp1.591.com.tw/house/active/2021/02/23/161404931050298402_765x517.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "富築❤管理員❤電梯❤可租車位❤台水台電",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "$8,500",
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "元/月",
+                "weight": "bold",
+                "color": "#FD0303FF",
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "點我看詳情",
+              "uri": "https://rent.591.com.tw/rent-detail-10533972.html"
+            },
+            "color": "#09BC19FF",
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://hp1.591.com.tw/house/active/2021/02/26/161430785434371800_765x517.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "❤富築❤可寵❤全新❤機車位❤流理臺❤逢甲",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "$15,999",
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "元/月",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#FD0101FF",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "點我看詳情",
+              "uri": "https://www.591.com.tw/rent-detail-10550328.html"
+            },
+            "flex": 2,
+            "color": "#09BC19FF",
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://hp1.591.com.tw/house/active/2021/02/23/161404664173869200_765x517.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "富築❤系統櫃❤乾濕分離❤機車位❤科學園區",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "$6,499",
+                "weight": "bold",
+                "size": "xl",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "元/月",
+                "weight": "bold",
+                "size": "sm",
+                "color": "#F90101FF",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "點我看詳情",
+              "uri": "https://www.591.com.tw/rent-detail-10533603.html"
+            },
+            "color": "#09BC19FF",
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "contents": [
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "spacer"
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://live.staticflickr.com/65535/51005161492_2f93e05c88.jpg",
+        "backgroundColor": "#FFFFFF"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "星達整合行銷",
+            "weight": "bold",
+            "size": "xxl",
+            "align": "center",
+            "contents": []
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "我要分享",
+              "uri": "https://linecorp.com"
+            },
+            "flex": 2,
+            "color": "#09BC19FF",
+            "style": "primary",
+            "gravity": "center"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "我也想做",
+              "uri": "https://linecorp.com"
+            },
+            "color": "#09BC19FF",
+            "style": "primary"
+          },
+          {
+            "type": "spacer"
+          }
+        ]
+      }
+    }
+  ]
+}
