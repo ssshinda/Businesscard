@@ -1,0 +1,256 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "$ {sdbusinesscard.image_1}",
+        "size": "full",
+        "aspectRatio": "10:9"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "$ {sdbusinesscard.title_1}",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "$ {sdbusinesscard.text_1}",
+                "weight": "bold",
+                "size": "md",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "$ {sdbusinesscard.subtitle_1}",
+              "uri": "$ {sdbusinesscard.link_1}"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "$ {sdbusinesscard.subtitle_2}",
+              "uri": "$ {sdbusinesscard.link_2}"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "$ {sdbusinesscard.image_2}",
+        "size": "full",
+        "aspectRatio": "10:9"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "$ {sdbusinesscard.title_1_2}",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "flex": 1,
+            "contents": [
+              {
+                "type": "text",
+                "text": "$ {sdbusinesscard.text_1_2}",
+                "weight": "bold",
+                "size": "md",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "$ {sdbusinesscard.subtitle_1_2}",
+              "uri": "$ {sdbusinesscard.link_1_2}"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "$ {sdbusinesscard.subtitle_2_2}",
+              "uri": "$ {sdbusinesscard.link_2_2}"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "$ {sdbusinesscard.image_3}",
+        "size": "full",
+        "aspectRatio": "10:9",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "$ {sdbusinesscard.title_1_3}",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "$ {sdbusinesscard.text_1_3}",
+                 "weight": "regular",
+                "size": "md",
+                "flex": 0,
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "$ {sdbusinesscard.subtitle_1_3}",
+              "uri": "$ {sdbusinesscard.link_1_3}"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "$ {sdbusinesscard.subtitle_2_3}",
+              "uri": "$ {sdbusinesscard.link_2_3}"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://live.staticflickr.com/65535/51008418952_ee3c3fbb8f_b.jpg",
+        "size": "full",
+        "aspectRatio": "10:9",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "text",
+            "text": "星達整合行銷",
+            "weight": "bold",
+            "size": "xxl",
+            "align": "center",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "spacer"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "我要分享",
+              "uri": "https://linecorp.com"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "官方LINE@",
+              "uri": "https://lin.ee/0did2KA"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    }
+  ]
+}
